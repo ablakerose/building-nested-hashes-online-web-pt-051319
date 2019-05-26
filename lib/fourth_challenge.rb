@@ -25,7 +25,7 @@ def fourth_challenge
         :attitude => "confused"
       },
       {
-        
+
       }
         #your hashes here!
       ]
